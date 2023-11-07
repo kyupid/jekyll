@@ -1,0 +1,1 @@
+https://jekyllrb-ko.github.io/docs/step-by-step/09-collections/ 여기부터 다시 ㄱ
